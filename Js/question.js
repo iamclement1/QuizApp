@@ -76,7 +76,7 @@ function showScores() {
 var questions = [
   new Question(
     'Adedeji Stephen is another known as...?',
-    ['A Bastard', 'A pari to n ko code', 'Ionware', 'All'],
+    ['A Bastard', 'Bishop', 'Ionware', 'All'],
     'All'
   ),
   new Question(
